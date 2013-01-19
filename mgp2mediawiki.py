@@ -17,7 +17,7 @@ def mgp2mediawiki(fin):
   return page
 
 def main(argv=None):
-  use = """Usage: %prog [options] [INPUTFILENAME]
+  use = """Usage: python %prog [options] [INPUTFILENAME]
 
  Default input is STDIN
  Default output is STDOUT
